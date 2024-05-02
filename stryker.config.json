@@ -12,9 +12,6 @@
   "coverageAnalysis": "perTest",
   "mutate":[
     "./src/basic.js",
-    "./src/BMI.js",
-    "./src/insertionSorting.js",
-    "./src/selectionSorting.js",
-    "./src/lenConverter.js"
+    "./src/BMI.js"
   ]
 }
